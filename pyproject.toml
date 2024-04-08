@@ -6,7 +6,7 @@ dependencies = [
 ]
 authors = [
    {name = "Troy Beaudin"}
-   ]
+]
 description = "awsrestore is Python module in the form of an AWS API wrapper that will allow you to easily interact with AWS Backup Vaults"
 readme = "README.md"
 license = {text = "MIT License"}
