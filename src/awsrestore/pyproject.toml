@@ -1,0 +1,11 @@
+[project]
+version = "2024.04.07"
+dependencies = [
+  "boto3",
+  "datetime"
+]
+authors = [
+   {name = "Troy Beaudin"}
+description = "awsrestore is Python module in the form of an AWS API wrapper that will allow you to easily interact with AWS Backup Vaults"
+readme = "README.md"
+license = {text = "MIT License"}
