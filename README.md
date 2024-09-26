@@ -1,5 +1,5 @@
 # AWSRestore
-awsrestore is Python module in the form of an AWS API wrapper that will allow you to easily interact with AWS Backup Vaults.
+awsrestore is Python module in the form of an AWS API wrapper that will allow you to easily interact with AWS Backup Vaults
 
 When dealing with restoring data during an outage or cyber attack, time is one of the most important factors. This module will help reduce the time and effort to get systems and data in AWS available by limiting the information you need to provide while allowing for flexibility. 
 
